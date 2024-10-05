@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "ssl.ptlogin2.qq.com/jump",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]

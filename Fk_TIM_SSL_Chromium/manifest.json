@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Fk_TIM_SSL",
+  "description": "修复 TIM 打开卡片分享链接时的 403 错误",
+  "version": "1.0",
+  "default_locale": "zh_CN",
+  "permissions": [
+    "declarativeNetRequestWithHostAccess",
+    "declarativeNetRequest",
+    "tabs",
+    "webNavigation"
+  ],
+  "host_permissions": [
+    "*://ssl.ptlogin2.qq.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+        "16": "icons/TIMLink16x16.png",
+        "32": "icons/TIMLink32x32.png",
+        "48": "icons/TIMLink48x48.png",
+        "128": "icons/TIMLink128x128.png"
+    },
+  "declarative_net_request": {
+    "rule_resources": [{
+      "id": "ruleset_1",
+      "enabled": true,
+      "path": "rules.json"
+    }]
+  }
+}
