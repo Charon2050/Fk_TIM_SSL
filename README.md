@@ -10,11 +10,11 @@ PC 版 TIM 在打开分享链接时，使用了一个已经被弃用的 URL 跳�
 
 ### Microsoft Edge
 
-[点击安装 Microsoft Edge 扩展：Fk_TIM_SSL](https://microsoftedge.microsoft.com/addons/detail/Fk_TIM_SSL/miaiedlpcnohdifldlikafppbehdomoh)
+[点击安装 Microsoft Edge 扩展：Fk_TIM_SSL](https://microsoftedge.microsoft.com/addons/detail/Fk_TIM_SSL/miaiedlpcnohdifldlikafppbehdomoh)（目前尚未审核完毕）
 
 ### Mozilla Firefox
 
-[点击安装 Mozilla Firefox 扩展：Fk_TIM_SSL](https://addons.mozilla.org/zh-CN/firefox/addon/fk_tim_ssl/)
+[点击安装 Mozilla Firefox 扩展：Fk_TIM_SSL](https://addons.mozilla.org/zh-CN/firefox/addon/fk_tim_ssl/)（目前尚未审核完毕）
 
 ### Google Chrome / Edge 手动安装
 
