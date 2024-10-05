@@ -14,7 +14,7 @@
 
 ### Google Chrome / Edge 手动安装
 
-在本项目的 Release 页面下载 Fk_TIM_SSL_Chromium.zip，**解压**后打开浏览器的扩展程序管理，点击左上角的「加载已解压的扩展程序」，选中解压的文件夹，进行添加即可。
+在本项目的 [Release 页面](https://github.com/Charon2050/Fk_TIM_SSL/releases/latest) 下载 Fk_TIM_SSL_Chromium.zip，**解压**后打开浏览器的扩展程序管理，点击左上角的「加载已解压的扩展程序」，选中解压的文件夹，进行添加即可。
 
 ## 介绍
 
